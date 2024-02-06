@@ -9,7 +9,7 @@ namespace DegerVeReferansTipler
             int sayi1 = 10;
             int sayi2 = 30;
             sayi1 = sayi2;
-            sayi2 = 65
+            sayi2 = 65;
                 //sayi1 = 30 cunku 11. satirda esitledikten sonra sayi2 ile baglanti kalmadi, yeni deger 65 oldu
 
             int[] sayilar1 = new int[] { 10, 20, 30 };
